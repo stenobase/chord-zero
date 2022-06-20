@@ -1,0 +1,72 @@
+(footprint "CherryMX_Hotswap_snug_fit" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5F70BC32)
+  (attr through_hole)
+  (fp_text reference "REF**" (at -1.5 -5.5) (layer "B.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (tstamp 983fc06a-84ee-42e6-89c1-9155afe9c388)
+  )
+  (fp_text value "KEY_SWITCH" (at -4.8 8.3) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a97b43f5-31f9-4dff-9fdb-9de8b87b2225)
+  )
+  (fp_text user "${REFERENCE}" (at -1.5 -5.5) (layer "B.Fab")
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (tstamp 54bd212a-efcc-48b2-8db1-8f11a5652dba)
+  )
+  (fp_line (start -1.984999 -1.66) (end -1.985 -1.584264) (layer "B.SilkS") (width 0.05) (tstamp 082b9a1e-3247-4b59-bbab-9b51ec6ebf31))
+  (fp_line (start 3.915 -2.86) (end -0.637831 -2.86) (layer "B.SilkS") (width 0.05) (tstamp 62b35b7e-86e0-4b3f-939d-839b9eac6bcc))
+  (fp_line (start -5.785 -0.96) (end -5.785 -4.16) (layer "B.SilkS") (width 0.05) (tstamp 6e35d86e-c37f-47c1-9ae6-d6465c2fd007))
+  (fp_line (start -3.285 -6.66) (end 4.515 -6.66) (layer "B.SilkS") (width 0.05) (tstamp 6f2e2512-2c0d-497b-aa6e-e455b7473559))
+  (fp_line (start -2.585 -0.96) (end -5.785 -0.96) (layer "B.SilkS") (width 0.05) (tstamp a268ed7c-421e-4d45-a2de-cb8edaf478d9))
+  (fp_line (start 4.515 -6.66) (end 4.515 -3.46) (layer "B.SilkS") (width 0.05) (tstamp c6d4e219-a3cb-4125-b7b7-020f783cd416))
+  (fp_arc (start -5.785 -4.16) (mid -5.052767 -5.927767) (end -3.285 -6.66) (layer "B.SilkS") (width 0.05) (tstamp 1ecfffd7-dcd0-4aae-a144-e959e8789d2c))
+  (fp_arc (start -1.984999 -1.66) (mid -1.493137 -2.464008) (end -0.637831 -2.86) (layer "B.SilkS") (width 0.05) (tstamp 97c204e1-b6ce-4f18-9e1a-0b33c4e3117a))
+  (fp_arc (start -1.985 -1.584264) (mid -2.160736 -1.16) (end -2.585 -0.984264) (layer "B.SilkS") (width 0.05) (tstamp c84f7f6f-7db1-4795-b71c-bac07ead9f59))
+  (fp_arc (start 4.515 -3.46) (mid 4.339264 -3.035736) (end 3.915 -2.86) (layer "B.SilkS") (width 0.05) (tstamp eced1e51-5d4b-4958-ae45-eaaa7b5765af))
+  (fp_line (start -7 -6) (end -7 -7) (layer "Dwgs.User") (width 0.15) (tstamp 14f99c4c-2af7-4760-9b77-f9095a9b29d0))
+  (fp_line (start -7 6) (end -7 7) (layer "Dwgs.User") (width 0.15) (tstamp 4200a012-dfab-4aa2-9da3-d49dc655f7eb))
+  (fp_line (start 7 -7) (end 6 -7) (layer "Dwgs.User") (width 0.15) (tstamp 44bc4c55-afac-40b4-9772-2899effe5633))
+  (fp_line (start 7 -7) (end 7 -6) (layer "Dwgs.User") (width 0.15) (tstamp 964d3c2a-bd1b-4b0e-aad5-ab2ae775418a))
+  (fp_line (start -7 -7) (end -6 -7) (layer "Dwgs.User") (width 0.15) (tstamp b0eef2a3-af1a-4ad7-86ca-4b7e66a78664))
+  (fp_line (start 6 7) (end 7 7) (layer "Dwgs.User") (width 0.15) (tstamp d17ccfd8-369f-4f46-b90e-d8050e222435))
+  (fp_line (start 7 7) (end 7 6) (layer "Dwgs.User") (width 0.15) (tstamp e113efef-bc61-4f87-b920-a8dba494f8c1))
+  (fp_line (start -7 7) (end -6 7) (layer "Dwgs.User") (width 0.15) (tstamp f7b93766-93e0-4417-9c07-d7529990fcfb))
+  (fp_rect (start -9.5 -9.5) (end 9.5 9.5) (layer "Dwgs.User") (width 0.05) (fill none) (tstamp f962fc10-348f-4b4c-8e0f-8992e7b57ea7))
+  (pad "" np_thru_hole circle (at 2.54 -5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp 36cf4469-e76e-42bb-94ed-30897eb8d624))
+  (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers F&B.Cu *.Mask) (tstamp 7adbe969-c24c-4ed1-8ca5-47a4f4923a6a))
+  (pad "" np_thru_hole circle (at -3.81 -2.54) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp 854aeccf-2685-4165-a5db-b6194fb5da7b))
+  (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers F&B.Cu *.Mask) (tstamp 8e2ed27b-4335-496f-980b-f08e3e8c7a69))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.95 3.95) (drill 3.95) (layers F&B.Cu *.Mask) (tstamp da992ed0-4b66-4088-8c63-3265103ad1a2))
+  (pad "1" smd rect (at -7.36 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 352d177f-1b53-42e6-9657-10f777c07bb8))
+  (pad "2" smd rect (at 6.09 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a601bab6-cf22-4bb1-bab7-e2babcfeae0d))
+  (group "" (id 8c159dfd-44f9-456c-b88a-e275ce3bef21)
+    (members
+      082b9a1e-3247-4b59-bbab-9b51ec6ebf31
+      1ecfffd7-dcd0-4aae-a144-e959e8789d2c
+      62b35b7e-86e0-4b3f-939d-839b9eac6bcc
+      6e35d86e-c37f-47c1-9ae6-d6465c2fd007
+      6f2e2512-2c0d-497b-aa6e-e455b7473559
+      97c204e1-b6ce-4f18-9e1a-0b33c4e3117a
+      a268ed7c-421e-4d45-a2de-cb8edaf478d9
+      c6d4e219-a3cb-4125-b7b7-020f783cd416
+      c84f7f6f-7db1-4795-b71c-bac07ead9f59
+      eced1e51-5d4b-4958-ae45-eaaa7b5765af
+    )
+  )
+  (model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/Kailh-CherryMX-Socket.step"
+    (offset (xyz -1.3 7.6 -3.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+  (model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/CherryMX Switch.step" hide
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/MX Series-Cherry Key.step"
+    (offset (xyz 7.35 7.35 6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -180))
+  )
+)
