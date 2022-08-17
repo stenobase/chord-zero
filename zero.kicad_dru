@@ -11,3 +11,8 @@
 (condition "A.Type == 'Pad' && A.Pad_Type == 'Through-hole' && B.Type == 'Zone'")
 (constraint clearance (min 1.5mm))
 )
+
+(rule "edge clearance"
+(condition "A.Type == 'Zone' && B.Layer == 'Edge.Cuts'")
+(constraint clearance (min 0.5mm))
+)
