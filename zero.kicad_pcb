@@ -3722,7 +3722,7 @@
   (gr_text "JLCJLCJLCJLC" (at 0 43.18) (layer "F.SilkS") (tstamp 90cff127-ec76-4c9a-8c71-a03d88e743af)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "CHORD ZERO, REV 0" (at -57 75) (layer "F.SilkS") (tstamp b1311f58-7640-45d5-b6d0-171ff2950b34)
+  (gr_text "CHORD ZERO REV 1" (at -57 75) (layer "F.SilkS") (tstamp b1311f58-7640-45d5-b6d0-171ff2950b34)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
