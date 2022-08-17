@@ -3675,7 +3675,7 @@
   (gr_line (start -82 72) (end -128.459806 40.977978) (layer "Edge.Cuts") (width 0.1) (tstamp f2f93763-2f0c-48e3-87a6-e2455ac3cb77))
   (gr_line (start -70 76) (end 70 76) (layer "Edge.Cuts") (width 0.1) (tstamp f9a21ce1-c1d1-4351-808c-bc7db0638119))
   (gr_arc (start 133 32.6) (mid 131.791987 37.364553) (end 128.459806 40.977978) (layer "Edge.Cuts") (width 0.1) (tstamp fba0d56b-67bc-48b0-8988-76d9abc2b1b0))
-  (gr_text "JLCJLCJLCJLC" (at 57 75) (layer "F.SilkS") (tstamp 90cff127-ec76-4c9a-8c71-a03d88e743af)
+  (gr_text "JLCJLCJLCJLC" (at 0 43.18) (layer "F.SilkS") (tstamp 90cff127-ec76-4c9a-8c71-a03d88e743af)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "CHORD ZERO, REV 0" (at -57 75) (layer "F.SilkS") (tstamp b1311f58-7640-45d5-b6d0-171ff2950b34)
