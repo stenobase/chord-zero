@@ -53,6 +53,8 @@ and create derivatives.
 
 - All documentation and design files of this project are released under the
   [CERN-OHL-S](LICENSE).
+- Some of the used 3D models are licensed under the [MIT
+  license](https://github.com/foostan/kbd/blob/master/LICENSE).
 - The default firmware for this project is [QMK](https://qmk.fm/).  QMK is
   released under the terms of the [GNU General Public License, version
   2](https://qmk.fm/license/).

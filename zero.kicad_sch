@@ -6,7 +6,10 @@
 
   (title_block
     (title "CHORD ZERO")
-    (rev "0")
+    (date "2022-08-17")
+    (rev "1")
+    (comment 3 "License: CERN Open Hardware Licence Version 2 - Strongly Reciprocal")
+    (comment 4 "Designed by: Simon Hengel")
   )
 
   (lib_symbols
@@ -2726,20 +2729,20 @@
 
   (sheet_instances
     (path "/" (page "1"))
-    (path "/f335cc8f-e5b9-45b3-a225-f5a27d343231" (page "2"))
-    (path "/c9cbce95-e5f9-49ba-b2be-27d4d3cc36de" (page "3"))
-    (path "/233421aa-cf9e-4e2a-8016-113768361ea0" (page "4"))
-    (path "/5f167090-5cd6-482a-8bc7-2fe501bc9f6a" (page "5"))
-    (path "/93dd74ae-6325-49c9-b7be-167642a1bf20" (page "6"))
-    (path "/bc3939ff-dba2-4cf9-9b69-43b9ed01bab8" (page "7"))
+    (path "/bc3939ff-dba2-4cf9-9b69-43b9ed01bab8" (page "2"))
+    (path "/f335cc8f-e5b9-45b3-a225-f5a27d343231" (page "3"))
+    (path "/c9cbce95-e5f9-49ba-b2be-27d4d3cc36de" (page "4"))
+    (path "/233421aa-cf9e-4e2a-8016-113768361ea0" (page "5"))
+    (path "/5f167090-5cd6-482a-8bc7-2fe501bc9f6a" (page "6"))
+    (path "/93dd74ae-6325-49c9-b7be-167642a1bf20" (page "7"))
     (path "/cd0b1625-bda7-49d1-b34d-8af60f0a9e2c" (page "8"))
     (path "/8c07a198-c25c-4035-b999-7a0c35401670" (page "9"))
     (path "/7aa1b2f7-ec89-40c3-9a89-72549581d96b" (page "10"))
     (path "/6a8addf2-f92c-4307-8cf4-37ae77102f89" (page "11"))
     (path "/92d6070f-c94d-4181-9da1-3762824cc8e6" (page "12"))
     (path "/ba9e58ce-3aa3-43fe-9260-1ac0d159d1bb" (page "13"))
-    (path "/8822629c-2877-46ad-862f-3c67f594c262" (page "14"))
-    (path "/d490925f-14db-47ae-857c-bb62bf261b5b" (page "15"))
+    (path "/d490925f-14db-47ae-857c-bb62bf261b5b" (page "14"))
+    (path "/8822629c-2877-46ad-862f-3c67f594c262" (page "15"))
     (path "/406e2939-957d-4699-be06-d532afd2db4a" (page "16"))
     (path "/f81bf0e7-05d7-4715-9ef7-cd1a6f28cfeb" (page "17"))
     (path "/abcbd84e-088b-47a8-9555-a4636d4c0ba8" (page "18"))

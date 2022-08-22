@@ -4,6 +4,14 @@
 
   (paper "A5")
 
+  (title_block
+    (title "CHORD ZERO")
+    (date "2022-08-17")
+    (rev "1")
+    (comment 3 "License: CERN Open Hardware Licence Version 2 - Strongly Reciprocal")
+    (comment 4 "Designed by: Simon Hengel")
+  )
+
   (lib_symbols
     (symbol "Diode:1N4148W" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (id 0) (at 0 2.54 0)
