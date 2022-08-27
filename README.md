@@ -1,4 +1,4 @@
-![CHORD ZERO](https://user-images.githubusercontent.com/461132/185382928-bc82f164-5e5d-42c3-9e13-e0778588b683.png)
+![CHORD ZERO](https://user-images.githubusercontent.com/461132/187019809-5aaccf27-c189-4561-801b-86f32a59df2b.jpg)
 
 # CHORD ZERO Stenographic Keyboard
 
@@ -61,4 +61,4 @@ and create derivatives.
 - All contributions to QMK that are specific to this project are released under
   the same terms as QMK itself.
 
-[![OSHW CERTIFIED DE000129](https://user-images.githubusercontent.com/461132/187017370-6dff40a2-5e51-4fa8-8dbf-6c65df288b0e.png)](https://certification.oshwa.org/de000129.html)
+<p align="center"><a href="https://certification.oshwa.org/de000129.html" title="OSHWA CERTIFIED DE000129"><img alt="OSHWA CERTIFIED DE000129" width="150" height="110" src="https://user-images.githubusercontent.com/461132/187019779-e19730fe-32b9-4ee0-ad52-3836fd8bb831.png"></a></p>
