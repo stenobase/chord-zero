@@ -60,3 +60,5 @@ and create derivatives.
   2](https://qmk.fm/license/).
 - All contributions to QMK that are specific to this project are released under
   the same terms as QMK itself.
+
+[![OSHW CERTIFIED DE000129](https://user-images.githubusercontent.com/461132/187017370-6dff40a2-5e51-4fa8-8dbf-6c65df288b0e.png)](https://certification.oshwa.org/de000129.html)
